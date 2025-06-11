@@ -1,0 +1,50 @@
+#corpo{
+    background-image:url(imagens/imgfundo.jpg);
+    background-size:cover; }
+
+#titulo{ 
+    color:rgb(109, 63, 19);
+    text-align: center; }
+
+#paragrafo{
+    font-size:x-large;
+    text-align:justify; }
+
+#funcao{ font-size: larger; }
+
+#item1{ margin-bottom: 10px; font-size:larger;}
+#item2{ margin-bottom: 10px; font-size:larger;}
+#item3{ font-size:larger;}
+ 
+#img1{
+    position: absolute;
+    right: 800px; top:270px;
+    border-radius: 10%; }
+
+#img6{
+    position:absolute;
+    right:300px; top: 270px;
+    border-radius: 10%; }
+
+#img5{
+    position:absolute;
+    right: 550px; top: 270px;
+    border-radius: 10%; }
+
+#tabela{
+    height:170px;
+    width: 210px;
+    border-collapse: collapse;
+    border-color: black;}
+
+#item4{ background-size:100%;
+    background-image:url(imagens/portugal.jpg); }
+
+#item5{ background-size:100%;
+    background-image:url(imagens/franca.jpg); }
+
+#item6{ background-size:100%;
+    background-image:url(imagens/italia.jpg); }
+
+#link{ color:blue; }
+#link:hover{ color:red; }
